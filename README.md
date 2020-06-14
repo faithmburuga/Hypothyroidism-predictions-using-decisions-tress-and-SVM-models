@@ -1,7 +1,7 @@
 # Hypothyroidism-predictions-using-decisions-tress-and-SVM-models
 
 # A PYTHON PROJECT ON DECISION TREES AND SVM MODELS
-WEEK 8 PROJECT, JUNE 2020
+**WEEK 8 PROJECT, JUNE 2020**\
 {By Faithelizabeth Mburuga}
 
 **Description**\
